@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @MapperScan("com.guanwx.mapper")
 @SpringBootApplication
-public class BaseApplication {
+public class ReviewApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(BaseApplication.class, args);
+        SpringApplication.run(ReviewApplication.class, args);
     }
 
 }

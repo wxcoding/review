@@ -10,10 +10,10 @@
     </parent>
 
     <groupId>com.guanwx</groupId>
-    <artifactId>base</artifactId>
+    <artifactId>review</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>base</name>
-    <description>base</description>
+    <name>review</name>
+    <description>review</description>
 
     <properties>
         <java.version>17</java.version>
