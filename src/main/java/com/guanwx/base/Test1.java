@@ -22,7 +22,7 @@ public class Test1 {
 
 //        System.out.println(reverse("guan"));
 
-//        System.out.println(removeElements(arr, 0));
+        System.out.println(removeElements(arr, 0));
 
 //        System.out.println(Arrays.toString(distinctNums(arr)));
 
