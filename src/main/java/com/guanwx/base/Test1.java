@@ -28,7 +28,7 @@ public class Test1 {
 
         System.out.println(replaceString("guan", "guan", "guanwx"));
 
-        System.out.println(distinctAndSort("22abc1ab3"));
+//        System.out.println(distinctAndSort("22abc1ab3"));
 
         System.out.println(singleNumber(arr));
 
