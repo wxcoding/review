@@ -26,7 +26,7 @@ public class Test1 {
 
 //        System.out.println(Arrays.toString(distinctNums(arr)));
 
-//        System.out.println(replaceString("guan", "guan", "guanwx"));
+        System.out.println(replaceString("guan", "guan", "guanwx"));
 
         System.out.println(distinctAndSort("22abc1ab3"));
 
